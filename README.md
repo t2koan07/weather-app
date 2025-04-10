@@ -4,10 +4,8 @@ A responsive, mobile-friendly weather web app featuring real-time forecasts, cit
 
 Built using HTML, CSS, and JavaScript.
 
-<p align="left">
-  <img src="img/demo1.png" alt="Weather App Screenshot" width="480" style="margin-right: 10px;" />
-  <img src="img/demo2.png" alt="Comparison Screenshot" width="480" />
-</p>
+![Weather App Gif](https://github.com/user-attachments/assets/ac66ddc9-3cdc-4a4b-adb6-291d16184fe6)
+![Weather App Gif](https://github.com/user-attachments/assets/ac66ddc9-3cdc-4a4b-adb6-291d16184fe6)
 
 # Live Demo
 
