@@ -1,6 +1,6 @@
 # Weather App
 
-A responsive, mobile-friendly and modern multi-functional weather web app that provides real-time weather services, temperature comparison, and a small interactive mini-game — all in one sleek package. Whether you're looking to quickly check the weather, compare two cities, or dodge raindrops in StormDodger, this app has you covered. With a clean UI, dynamic weather-based backgrounds, and support for both Finnish and English, it's designed for an engaging and practical user experience.
+A responsive, mobile-friendly weather web app featuring real-time forecasts, city temperature comparisons, and an interactive mini-game called StormDodger. With a clean UI, dynamic weather-based backgrounds, and full bilingual support (Finnish & English), the app provides a sleek and practical user experience.
 
 Built using HTML, CSS, and JavaScript.
 
@@ -11,7 +11,7 @@ Built using HTML, CSS, and JavaScript.
 
 # Live Demo
 
-<a href="https://t2koan07.github.io/weather-app/index.html" target="_blank">▶️ View it live</a>
+[▶️ View it live](https://t2koan07.github.io/weather-app/index.html)
 
 # Contents
 
