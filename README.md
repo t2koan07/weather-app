@@ -11,7 +11,7 @@ Built using HTML, CSS, and JavaScript.
 
 # Live Demo
 
-[▶️ View it live](https://t2koan07.github.io/weather-app/index.html)
+<a href="https://t2koan07.github.io/weather-app/index.html" target="_blank">▶️ View it live</a>
 
 # Contents
 
